@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 About me
 
-- 💼 Software Engineer at Microsoft
+- 💼 Software Engineer at Microsoft 
+- 📈 Part-time Quant Trader
 - 😄 I love hacking stuff
 - 🌱 I’m currently learning Distributed Storage System and Financial Engineering.
 - 📫 How to reach me: [chenditc@gmail.com](mailto:chenditc@gmail.com)
