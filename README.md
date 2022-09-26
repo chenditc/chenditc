@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 About me
 
-- 💼 Software Engineer at Microsoft 
+- 💼 Full Stack Software Engineer at Microsoft 
 - 📈 Part-time Quant Trader
 - 😄 I love hacking stuff
 - 🌱 I’m currently learning Distributed Storage System and Financial Engineering.
 - 📫 How to reach me: [chenditc@gmail.com](mailto:chenditc@gmail.com)
-- ⚡ Fun fact: I have a blog, feel free to check it out: [chendi.me](http://chendi.me)
+- ⚡ Fun fact: 
+    - 📖 I have a blog, feel free to check it out: [chendi.me](http://chendi.me)
+    - 👯 I list some side project I want to build, looking for collaboration: [chenditc/idea_collection](https://github.com/chenditc/idea_collection)
 - 💬 Ask me about anything here
 
 [![chendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenditc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
