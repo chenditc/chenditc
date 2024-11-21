@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 About me
 
 - 💼 Full Stack Software Engineer at Microsoft 
-- 📈 Part-time Quant Trader
 - 😄 I love hacking stuff
-- 🌱 I’m currently learning Distributed Storage System and Financial Engineering.
+- 🌱 I’m currently learning Reinforment Learning / Distributed Storage System / Financial Engineering / Singing / Skiing / KPop Dancing / Piano.
 - 📫 How to reach me: [chenditc@gmail.com](mailto:chenditc@gmail.com)
 - ⚡ Fun fact: 
     - 📖 I have a blog, feel free to check it out: [chendi.me](http://chendi.me)
