@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 About me
 
-- 💼 Full Stack Software Engineer at Microsoft 
+- 💼 Full Stack Software Engineer at NVIDIA 
 - 😄 I love hacking stuff
 - 🌱 I’m currently learning Reinforment Learning / Distributed Storage System / Financial Engineering / Singing / Skiing / KPop Dancing / Piano.
 - 📫 How to reach me: [chenditc@gmail.com](mailto:chenditc@gmail.com)
